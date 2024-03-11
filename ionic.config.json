@@ -1,0 +1,7 @@
+{
+  "name": "ToolList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,25 @@
+/* Agrega estos estilos a tu archivo CSS global o componente específico */
+
+.custom-card {
+  width: 90%; /* Ajusta el ancho del card según sea necesario */
+  margin: 10px auto; /* Centra el card y agrega un margen entre cards */
+  padding: 10px; /* Ajusta el relleno interno del card */
+}
+
+.custom-card-title {
+  font-size: 1.2rem; /* Ajusta el tamaño del título según sea necesario */
+}
+
+.custom-card-subtitle {
+  font-size: 1rem; /* Ajusta el tamaño del subtítulo según sea necesario */
+}
+
+.custom-card-link {
+  display: block; /* Hace que el enlace ocupe todo el ancho del card */
+  margin-top: 10px; /* Añade espacio entre el subtítulo y el enlace */
+}
+
+.custom-button {
+  font-size: 0.9rem; /* Ajusta el tamaño del botón según sea necesario */
+  padding: 5px 10px; /* Ajusta el relleno del botón según sea necesario */
+}
